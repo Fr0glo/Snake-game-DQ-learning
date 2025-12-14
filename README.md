@@ -23,11 +23,7 @@ Snake-RL-Project/
 │
 ├── main.py                    # Entry point to run environment
 └── README.md
-```
 
-## Current Status: Step 1 - Game Environment
-
-✅ **Completed**: Working Snake game environment that can be played manually.
 
 ### Features
 
@@ -60,17 +56,6 @@ python main.py
 - **Arrow Keys** or **WASD**: Control snake direction
 - **SPACE**: Restart after game over
 
-## Next Steps
 
-- [ ] Implement Deep Q-Learning (DQN) agent
-- [ ] Train the agent to play Snake
-- [ ] Add score tracking and visualization
-- [ ] Save training results
-
-## Requirements
-
-- Python 3.7+
-- Pygame
-- PyTorch (for future RL implementation)
 
 
